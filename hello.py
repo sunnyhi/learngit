@@ -1,2 +1,1 @@
-# add coding: utf-s
-print('hello')
+print('hello world!')
